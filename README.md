@@ -1,0 +1,3 @@
+Ron the caterpillar is a Javascript (JQuery) project that uses Drag and Drop functions.
+
+Ron is hungry and eats whatever he finds, but ...........
